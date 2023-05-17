@@ -6,6 +6,7 @@
 
 - You can add it to crontab like that:
 - "5 5 * * * /root/scripts/wled-backup.sh >/dev/null 2>&1"
+<br>
 
 - To-Do's
 - Maybe a Backup retention, how many to keep, etc... If someone needs that feel free for an PR, maybe i'll add that at some point either.
